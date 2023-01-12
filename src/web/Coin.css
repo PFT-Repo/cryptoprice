@@ -1,0 +1,10 @@
+.coin{
+    border: 1px solid black;
+    border-radius: 60px;
+    width:fit-content;
+    margin: 10px;
+    align-self: center;
+    padding: 20px;
+    background-color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
